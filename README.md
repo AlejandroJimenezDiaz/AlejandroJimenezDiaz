@@ -8,7 +8,7 @@
 - 🌱 Me gusta hacer pequeños retos para ir adquiriendo mas conocimmientos.  
   
  
-- 📫 Puedes contactarme (mailto:jimenezdiazalejandro1995@gmail.com)  
+- 📫 Puedes contactarme jimenezdiazalejandro1995@gmail.com  
   
 - 📄 Conoce mi experiencia [CV](/cv-alejandro-647651756.pdf)
 
