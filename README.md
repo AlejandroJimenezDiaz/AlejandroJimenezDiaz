@@ -2,7 +2,7 @@
 <h3 align="center">Estudiante actualmente cursando 2ºDAM🚀</h3>
 
 
-- 📇 Mis conocimientos adquiridos en el curso -> PL/SQL, HTML, CSS, JAVA, Git, PYTHON, C++.  
+- 📇 Mis conocimientos adquiridos en el curso -> PL/SQL, HTML, CSS, JAVA, Git, PYTHON, C++, JAVASCRIP.  
   
 
 - 🌱 Me gusta hacer pequeños retos para ir adquiriendo mas conocimmientos.  
