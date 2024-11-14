@@ -2,13 +2,9 @@
 <h3 align="center">Estudiante de 2º DAM 🚀</h3>
 <div align="center">
   <div class="rocket-container">
-    <img src="https://imagens.net.br/wp-content/uploads/2024/07/explore-os-melhores-gifs-de-computador-para-programadores-e-amantes-de-tecnologia-0.gif" alt="Flying Rocket" class="rocket" width="400" height="400">
+    <img src="https://imagens.net.br/wp-content/uploads/2024/07/explore-os-melhores-gifs-de-computador-para-programadores-e-amantes-de-tecnologia-0.gif" alt="Flying Rocket" class="rocket" width="300" height="300">
   </div>
 </div>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/2oF6A11qTPco0/giphy.gif" alt="Flying Rocket" width="80">
-</p>
 
 ---
 
