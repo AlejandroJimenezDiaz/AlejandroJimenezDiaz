@@ -19,7 +19,7 @@
 - **Correo electrónico**: jimenezdiazalejandro1995@gmail.com
 
 ### 📄 Conoce mi experiencia
-- [Ver mi CV](./cv-alejandro-647651756.pdf)
+- [Ver mi CV](./CV-Actualizado2025.pdf)
 
 ---
 
