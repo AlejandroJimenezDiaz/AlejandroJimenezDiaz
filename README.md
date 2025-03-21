@@ -1,5 +1,5 @@
 <h1 align="center">Hola, mi nombre es Alejandro</h1>
-<h3 align="center">Estudiante de 2º DAM 🚀</h3>
+<h3 align="center">Actualmente en Xerintel Internet Technologies SL 🚀</h3>
 <div align="center">
   <div class="rocket-container">
     <img src="https://imagens.net.br/wp-content/uploads/2024/07/explore-os-melhores-gifs-de-computador-para-programadores-e-amantes-de-tecnologia-0.gif" alt="Flying Rocket" class="rocket" width="300" height="300">
@@ -9,11 +9,11 @@
 ---
 
 ### 📇 Conocimientos adquiridos
-- **Lenguajes y tecnologías**: PL/SQL, HTML, CSS, Java, Git, Python, C++, JavaScript
+- **Lenguajes y tecnologías**: PL/SQL, MySQL, HTML, CSS, Java, Git, Python, C++, JavaScript, TypeScript, Kotlin.
 - **Stack de desarrollo**: Frontend, Backend, DevOps
 
 ### 🌱 ¿Qué me apasiona?
-- Me encanta asumir **pequeños retos** para seguir aprendiendo y mejorando mis habilidades.
+- Me encanta desarrollar **Aplicaciones Multiplataformas** en su totalidad, mejorando mis habilidades.
 
 ### 📫 ¿Cómo contactarme?
 - **Correo electrónico**: jimenezdiazalejandro1995@gmail.com
