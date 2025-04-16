@@ -28,7 +28,7 @@
     <a href="https://github.com/AlejandroJimenezDiaz" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
     </a>
-    <a href="https://www.linkedin.com/in/alejandro-jimenez-diaz-dev" target="_blank">
+    <a href="https://www.linkedin.com/in/alejandrojd-dev" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>
 </div>
